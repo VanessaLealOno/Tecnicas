@@ -1,2 +1,2 @@
 # Tecnicas
-Git
+
